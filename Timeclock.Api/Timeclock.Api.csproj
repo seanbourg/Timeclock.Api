@@ -23,10 +23,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Endpoints\" />
     <Folder Include="Application\" />
-    <Folder Include="Domain\" />
-    <Folder Include="Infrastructure\Persistence\" />
+    <Folder Include="Domain\Queries\" />
+    <Folder Include="Endpoints\" />
     <Folder Include="Infrastructure\Queries\" />
   </ItemGroup>
 
