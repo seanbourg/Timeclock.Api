@@ -22,4 +22,12 @@
     <PackageReference Include="Scalar.AspNetCore" Version="2.7.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Endpoints\" />
+    <Folder Include="Application\" />
+    <Folder Include="Domain\" />
+    <Folder Include="Infrastructure\Persistence\" />
+    <Folder Include="Infrastructure\Queries\" />
+  </ItemGroup>
+
 </Project>

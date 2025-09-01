@@ -1,6 +1,6 @@
 @Timeclock.Api_HostAddress = http://localhost:5081
 
-GET {{Timeclock.Api_HostAddress}}/weatherforecast/
+GET {{Timeclock.Api_HostAddress}}/health/
 Accept: application/json
 
 ###
