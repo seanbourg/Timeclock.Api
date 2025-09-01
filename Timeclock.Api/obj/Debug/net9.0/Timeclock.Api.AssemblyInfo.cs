@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Timeclock.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdb00f3274d5b59f3debe23d187102b9b9926637")]
 [assembly: System.Reflection.AssemblyProductAttribute("Timeclock.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Timeclock.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
