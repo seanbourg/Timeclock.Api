@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "omWopLXSY4U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seanb\\source\\repos\\Timeclock.Api\\Timeclock.Api\\Timeclock.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seanb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\seanb\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\seanb\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
