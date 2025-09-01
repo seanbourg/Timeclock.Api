@@ -24,7 +24,7 @@
 
   <ItemGroup>
     <Folder Include="Application\" />
-    <Folder Include="Domain\Queries\" />
+    <Folder Include="Domain\" />
     <Folder Include="Endpoints\" />
     <Folder Include="Infrastructure\Queries\" />
   </ItemGroup>
